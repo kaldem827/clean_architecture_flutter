@@ -1,0 +1,1 @@
+const quoteAPIBaseUrl = "https://api.kanye.rest";
